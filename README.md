@@ -6,7 +6,7 @@ I am currently studying full-stack developement at Tech Elevator, and I'll be gr
 
 Please note that the Snake Game, Jumping Game and To-Do List application are all works in progress. They are currently functional; however, the Jumping Game and To-Do List application are in very "rough draft" phases. I'm also working on adding more features to the Snake Game (including different difficulty settings and different color themes).
 
-I'm excited to use this space to continually show what I'm working on, and I'd love to connect with and support other developers as well. Feel free to reach out to me on LinkedIn!
+I'm excited to use this space to continually show what I'm working on, and I'd love to connect with and support other developers as well. Feel free to reach out to me on LinkedIn: https://www.linkedin.com/in/emilyesanders
 
 <!--
 **EmilyESanders/EmilyESanders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
